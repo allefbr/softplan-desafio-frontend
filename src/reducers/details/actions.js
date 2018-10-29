@@ -1,0 +1,7 @@
+export const ADD_PROCESS = 'details:ADD_PROCESS'
+export const CLEAN_PROCESS = 'details:CLEAN_PROCESS'
+export const OPEN_DETAILS = 'details:OPEN_DETAILS'
+export const CLOSE_DETAILS = 'details:CLOSE_DETAILS'
+export const REMOVE_PROCESS = 'details:REMOVE_PROCESS'
+export const FETCHING_PROCESS = 'details:FETCHING_PROCESS'
+export const FETCH_FINISHED_PROCESS = 'details:FETCH_FINISHED_PROCESS'
